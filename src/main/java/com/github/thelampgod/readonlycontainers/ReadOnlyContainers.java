@@ -1,9 +1,8 @@
 package com.github.thelampgod.readonlycontainers;
 
-import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class ReadOnlyContainers extends JavaPlugin implements Listener {
+public final class ReadOnlyContainers extends JavaPlugin {
 
     @Override
     public void onEnable() {
