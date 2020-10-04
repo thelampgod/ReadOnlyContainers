@@ -1,0 +1,5 @@
+name: ReadOnlyContainers
+version: @version@
+main: com.github.thelampgod.readonlycontainers.ReadOnlyContainers
+authors: [ thelampgod ]
+description: Makes containers read-only
